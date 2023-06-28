@@ -1,5 +1,6 @@
+/* eslint-disable */
+
 'use client';
-// eslin
 
 import {motion} from 'framer-motion';
 import { TypingText } from '../components';
